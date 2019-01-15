@@ -1,0 +1,10 @@
+Flake_off
+Injured_fastener
+Puncture_Perforation
+Fastener_hole
+Dent
+Wave_Creased
+Crack
+Scratch
+Corrosion
+Lightening_strike
